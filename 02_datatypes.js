@@ -12,7 +12,7 @@
 
  let isLoggedIn = false;//boolean data type//
 
- //number => 2 to the power of 53 -1 => 9007199254740991
+ //number => 2 to the power of 53^-1 => 9007199254740991
 
  let bigNumber = 9007199254740991n;//bigint data type//
  //here n is used to represent big int data type//
